@@ -2,11 +2,11 @@ import numpy as np
 
 def main():
   """Fungsi utama untuk menjalankan program."""
+  print("\nNisrina Azka Salsabila")
+  print("21120122130057")
+  print ("Metode Numerik - Kelas C")
+  print("Teknik Komputer")
   while True:
-    print("\nNisrina Azka Salsabila")
-    print("21120122130057")
-    print ("Metode Numerik - Kelas C")
-    print("Teknik Komputer")
     print("\nPenyelesaian Sistem Persamaan Linear (SPL)")
     print("\nSelamat datang! Silahkan pilih penyelesaian yang anda inginkan pada menu dibawah ini:")
     print("1. Matriks Balikan")
