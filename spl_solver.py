@@ -32,6 +32,7 @@ def main():
       except ValueError as e:
         print(e)
     elif pilihan == 4:
+      print("\nTerima kasih telah menggunakan program ini.\n")
       break
     else:
       print("Pilihan tidak valid. Silakan coba lagi.")
